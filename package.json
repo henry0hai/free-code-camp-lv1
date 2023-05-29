@@ -14,5 +14,6 @@
 	"author": "Henry Hai",
 	"description": "A sample Node app build for complete challenge in freeCodeCamp",
 	"keywords": ["freecodecamp", "learn", "challenge", "nodejs", "npm", "package"],
-	"license": "MIT"
+	"license": "MIT",
+	"version": "1.0.0"
 }
