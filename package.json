@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Henry Hai"
+	"author": "Henry Hai",
+	"description": "A sample Node app build for complete challenge in freeCodeCamp"
 }
